@@ -21,7 +21,7 @@ export const robots = [
     id: 4,
     name: 'Patricia Lebsack',
     username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    email: 'Julianne.Oner@kory.org'
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ export const robots = [
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
+    name: 'Nicholas Runolfsdo',
     username: 'Maxime_Nienow',
     email: 'Sherwood@rosamond.me'
   },
